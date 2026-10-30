@@ -1,0 +1,2 @@
+# Install with crontab -e after setting host timezone to Asia/Jakarta.
+0 7 * * * cd /opt/job-hunter && /usr/bin/flock -n .run.lock /usr/bin/timeout 3h .venv/bin/python jobs.py >> jobs.log 2>&1

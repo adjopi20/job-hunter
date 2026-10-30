@@ -1,0 +1,11 @@
+{
+  "keywords": ["Penetration Tester", "VAPT Engineer", "Red Team", "Offensive Security", "SOC Analyst", "Blue Team", "Security Analyst", "Application Security", "Vulnerability Management", "Security Engineer", "Cybersecurity Consultant", "Cyber GRC"],
+  "locations": ["Indonesia", "Singapore", "Malaysia", "Australia", "Europe", "United States"],
+  "remote_locations": ["Worldwide"],
+  "sites": ["linkedin"],
+  "hours_old": 48,
+  "results_wanted": 10,
+  "delay_seconds": 15,
+  "query_timeout_seconds": 90,
+  "database": "jobs.sqlite3"
+}
